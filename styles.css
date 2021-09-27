@@ -70,6 +70,28 @@ nav button:hover{
     background-color: white;
     color: black;
 }
+.diapo ul {
+    width: 221px;
+    margin: 20px auto;
+}
 .diapo li {
     list-style-type: disc;
+}
+/* Premium */
+.premium p{
+    margin: 20px auto;
+    width: 380px;
+}
+.premium .carousel {
+    background: url(images/carousel.jpg) no-repeat;
+    background-position: 50%;
+    background-size: 1200px;
+    height: 704px;
+}
+.white-screen img{
+    max-width: 45%;
+    height: auto;
+}
+.white-screen h2 {
+    width: 580px;
 }
