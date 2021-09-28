@@ -113,7 +113,29 @@ nav button:hover{
     width: 152px;
     border-radius: 6px;
 }
+.gradient .multi {
+    background: url(images/gradient3.jpg) no-repeat;
+    background-size: 100%;
+    box-shadow: 0 0 20px #c1c1c1;
+    height: 375px;
+    margin: auto;
+    width: 375px;
+    border-radius: 6px;
+}
+.gradient .vert {
+    background: url(images/gradient4.jpg) no-repeat;
+    background-size: 100%;
+    box-shadow: 0 0 20px #c1c1c1;
+    height: 152px;
+    margin: auto;
+    width: 152px;
+    border-radius: 6px;
+}
 .gradient .découverte {
     width: 152px;
     font-size: 13px;
+}
+.emission img{
+    height: 245px;
+    width: 245px;
 }
