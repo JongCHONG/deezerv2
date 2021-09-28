@@ -95,3 +95,25 @@ nav button:hover{
 .white-screen h2 {
     width: 580px;
 }
+.gradient .violet {
+    background: url(images/gradient1.jpg) no-repeat;
+    background-size: 100%;
+    box-shadow: 0 0 20px #c1c1c1;
+    height: 152px;
+    margin: auto;
+    width: 152px;
+    border-radius: 6px;
+}
+.gradient .bleu {
+    background: url(images/gradient2.jpg) no-repeat;
+    background-size: 100%;
+    box-shadow: 0 0 20px #c1c1c1;
+    height: 152px;
+    margin: auto;
+    width: 152px;
+    border-radius: 6px;
+}
+.gradient .découverte {
+    width: 152px;
+    font-size: 13px;
+}
